@@ -1,5 +1,5 @@
 # VPS2SSHPortForwarder
-Create your own serveo.net SSH port forwarding alternative (ON 24/7)
+Create your own serveo.net SSH port forwarding alternative (if you don't know what that is, see https://lottunnels.github.io/lottunnels/Binaries/serveo/)
 
 Easily host minecraft, terraria, or any other type of server on your local homelab by using a VPS
 
@@ -8,8 +8,9 @@ What you'll need:
 
 1. A working brain (required)
 2. A VPS Provider, must have dedicated ipv4 (you can use azure, digitalocean, hostinger, etc etc)
+3. One that I really recommend is https://www.racknerd.com/ (10$ yearly option)
 
-# Get started
+# Getting started
 
 Run this on your VPS, then follow the script provided instructions afterward:  
 
