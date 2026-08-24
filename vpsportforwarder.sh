@@ -20,7 +20,7 @@ clear
 echo ""
 echo "====================================================="
 echo " Expose ports seamlessly using your VPS"
-echo " GitHub: https://github.com/obai9610/VPS2PortForwarder/"
+echo " GitHub: https://github.com/racx3/VPS2PFW/"
 echo " Please star the repo :P"
 echo "====================================================="
 echo ""
