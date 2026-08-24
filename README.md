@@ -1,4 +1,7 @@
 # VPS2SSHPortForwarder
+
+Tested on Linux only, Windows is not supported yet
+
 Create your own serveo.net SSH port forwarding alternative (if you don't know what that is, see https://lottunnels.github.io/lottunnels/Binaries/serveo/)
 
 Use a VPS to easily host Minecraft, Terraria, or virtually any other game server on your local homelab.
