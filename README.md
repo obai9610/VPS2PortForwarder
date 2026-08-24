@@ -11,7 +11,7 @@ Use a VPS to easily host Minecraft, Terraria, or virtually any other game server
 
 Run this on your VPS, then follow the script provided instructions afterward:  
 
- <pre>wget https://raw.githubusercontent.com/racx3/VPS2PortForwarder/refs/heads/main/vpsportforwarder.sh && bash vpsportforwarder.sh</pre> 
+ <pre>wget https://raw.githubusercontent.com/racx3/VPS2PFW/refs/heads/main/vpsportforwarder.sh && bash vpsportforwarder.sh</pre> 
 
 Please use the issue tab to report any issues or ask any questions.
 
